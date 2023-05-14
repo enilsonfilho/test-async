@@ -27,7 +27,7 @@ Siga as etapas abaixo para executar o projeto:
 1. Clone este repositório em sua máquina:
 
 ```
-git clone https://github.com/seu-usuario/projeto-spring-async.git
+git clone https://github.com/enilsonfilho/test-async.git
 ```
 
 2. Navegue até o diretório do projeto:
